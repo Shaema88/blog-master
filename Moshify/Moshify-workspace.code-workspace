@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Moshify",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Moshify"
+	}
+}
